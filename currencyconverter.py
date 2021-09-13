@@ -1,4 +1,4 @@
-# write your code here!
+# converts values between different currencies.
 import json
 
 import requests
