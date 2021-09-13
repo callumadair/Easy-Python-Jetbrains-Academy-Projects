@@ -1,6 +1,8 @@
 import math
 import argparse
 
+# A loan calculator for working out missing values in a loan.
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--type")
 parser.add_argument("--payment")
