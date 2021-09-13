@@ -3,11 +3,9 @@ import string
 import sys
 import socket
 import json
-
-
-# Determine which login from the provided dictionary is the admin login.
 import time
 
+# A simple password hacking program that takes advantage of a fictional website which contains an exception time vulnerability.
 
 def find_login(file, cur_socket):
     for line in file:
