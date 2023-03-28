@@ -1,1 +1,1 @@
-A selection of pyhton based programs created for the Jetbrains Academy Python Track
+A selection of python based programs created for the Jetbrains Academy Python Track.
